@@ -1,0 +1,15 @@
+C:\Users\Jon\source\repos\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.exe
+C:\Users\Jon\source\repos\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.deps.json
+C:\Users\Jon\source\repos\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.runtimeconfig.json
+C:\Users\Jon\source\repos\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.dll
+C:\Users\Jon\source\repos\LabSeven\LabSeven\bin\Debug\net6.0\ref\LabSeven.dll
+C:\Users\Jon\source\repos\LabSeven\LabSeven\bin\Debug\net6.0\LabSeven.pdb
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.csproj.AssemblyReference.cache
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.AssemblyInfo.cs
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.dll
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\ref\LabSeven.dll
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.pdb
+C:\Users\Jon\source\repos\LabSeven\LabSeven\obj\Debug\net6.0\LabSeven.genruntimeconfig.cache
